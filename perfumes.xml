@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perfumes>
+  <perfume id="1">
+    <name>Ocean Breeze</name>
+    <description>A refreshing scent inspired by the sea.</description>
+    <price>89.99</price>
+    <image>images/ocean_breeze.jpg</image>
+  </perfume>
+  <perfume id="2">
+    <name>Midnight Elegance</name>
+    <description>A sophisticated fragrance perfect for evening wear.</description>
+    <price>129.99</price>
+    <image>images/midnight_elegance.jpg</image>
+  </perfume>
+  <perfume id="3">
+    <name>Floral Symphony</name>
+    <description>A delicate blend of floral notes with a hint of spice.</description>
+    <price>99.99</price>
+    <image>images/floral_symphony.jpg</image>
+  </perfume>
+  <perfume id="4">
+    <name>Vintage Charm</name>
+    <description>An enchanting mix of classic and modern scents.</description>
+    <price>109.99</price>
+    <image>images/vintage_charm.jpg</image>
+  </perfume>
+</perfumes>
