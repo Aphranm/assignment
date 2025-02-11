@@ -49,6 +49,7 @@ nav ul li a {
 }
 
 .home {
+  /* Background image placed in the root directory */
   background: url('perfume-background.jpg') no-repeat center center/cover;
   color: #fff;
   text-align: center;

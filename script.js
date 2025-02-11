@@ -41,7 +41,7 @@ function displayProducts(xml) {
 
     // Create and set up the image element
     const imgElem = document.createElement("img");
-    imgElem.src = image;
+    imgElem.src = image;  // Image path provided in the XML file
     imgElem.alt = name;
 
     // Create the product name element

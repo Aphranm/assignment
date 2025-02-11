@@ -4,6 +4,7 @@
     <name>Ocean Breeze</name>
     <description>A refreshing scent inspired by the sea.</description>
     <price>89.99</price>
+    <!-- Image file located in the 'images' folder -->
     <image>images/ocean_breeze.jpg</image>
   </perfume>
   <perfume id="2">
