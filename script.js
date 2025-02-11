@@ -38,10 +38,12 @@ function displayProducts(xml) {
     // Create a container div for the product
     const productDiv = document.createElement("div");
     productDiv.classList.add("product");
+    // Apply a staggered animation delay for a smoother fade-in effect
+    productDiv.style.animationDelay = `${i * 0.2}s`;
 
     // Create and set up the image element
     const imgElem = document.createElement("img");
-    imgElem.src = image;  // Image path provided in the XML file
+    imgElem.src = image;
     imgElem.alt = name;
 
     // Create the product name element
